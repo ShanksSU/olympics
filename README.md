@@ -1,1 +1,1 @@
-# -olympics
+# olympics
